@@ -1,5 +1,5 @@
 {
-    "name": "Shzrebot/validation",
+    "name": "shzrebot/validation",
     "autoload": {
         "psr-4": {
             "RoocketValidation\\" : "src/" 
