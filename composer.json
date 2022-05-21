@@ -1,0 +1,9 @@
+{
+    "name": "zeidi/validation",
+    "autoload": {
+        "psr-4": {
+            "RoocketValidation\\" : "src/" 
+        }
+    },
+    "require": {}
+}
