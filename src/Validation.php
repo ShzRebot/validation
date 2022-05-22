@@ -11,4 +11,9 @@ class RoocketValidation
     {
         
     }
+
+    public function set()
+    {
+        
+    }
 }
