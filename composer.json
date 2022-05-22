@@ -6,5 +6,7 @@
         }
     },
     "license": ["MIT"],
-    "require": {}
+    "require": {
+        "php" : ">7.0"
+    }
 }
