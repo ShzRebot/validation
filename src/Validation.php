@@ -2,9 +2,9 @@
 
 class RoocketValidation
 {
-    public function has(array $data , string $field) : bool
+    public function has(array $data , string $field)
     {
-        return isset($data[$field]); 
+        // return isset($data[$field]); 
     }
 
     public function get()
@@ -14,6 +14,6 @@ class RoocketValidation
 
     public function set()
     {
-        
+
     }
 }
